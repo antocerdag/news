@@ -9,7 +9,10 @@
 }
 
 /* NAVBAR */ 
-
+nav{
+	width: 80%;
+	margin-left: 9%;
+}
 .navbar {
 	background-color: white;
 	    box-shadow: none;
@@ -25,4 +28,29 @@
 }
 nav .brand-logo{
 	margin-left: 22px;
+}
+
+/* SECCION POPULAR */
+.popular{
+	width: 100%;
+  margin-left: -78px;
+
+}
+
+.img-foto-popular1{
+	background-image: url(../img/10.png);
+	background-repeat: no-repeat;
+  width: 205%;
+  height: 135px;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+
+.img-foto-popular2{
+	background-image: url(../img/12.png);
+	background-repeat: no-repeat;
+  margin-top: 20px;
+  margin-left: 52px;
+  width: 204%;
+  height: 155px;
 }
